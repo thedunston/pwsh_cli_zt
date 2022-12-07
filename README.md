@@ -2,6 +2,8 @@
 
 Status: Currently supported and will be updated soon. Today is 20221207.
 
+[The bash_cli_zt scripts are here](https://github.com/thedunston/bash_cli_zt)
+
 Here are the beginnings of Powershell scripts to manage a self-hosted ZeroTier controller on a Windows host.  These scripts were tested on Windows 10.  These are very icky and only performs the tasks:
 
 1. Create a network, DHCP pool, and a short description.

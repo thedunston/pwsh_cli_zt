@@ -14,3 +14,7 @@ These scripts will become more robust soon.
 The output is raw JSON.  I wrote these to test if Windows could be a ZT self-hosted controller.
 
 Hate time, not the programmer. :)
+
+Run the createNet script first.
+Then createIPAssignment
+Finally, getMember
